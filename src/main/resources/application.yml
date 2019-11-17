@@ -1,0 +1,6 @@
+queue:
+  master: MASTER
+  visa: VISA
+  response:
+    approve: APROVADOS
+    decline: REPROVADOS
